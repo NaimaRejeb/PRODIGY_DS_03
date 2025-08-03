@@ -28,7 +28,8 @@ Key Features:
 1. Clone repository
 2. Install requirements: `pip install pandas matplotlib seaborn jupyter scikit-learn`
 3. Launch Jupyter: `jupyter notebook`
-4. Open and run the ipynb file .
+4. Open and run `task03.ipynb`
+      
 **Option 2: On Kaggle**  
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/naiimarejeb/task-03)  
 You can run the analysis directly on Kaggle without any installation.
